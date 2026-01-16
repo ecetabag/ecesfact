@@ -1,6 +1,6 @@
 # Ece's Daily Cognitive Science Fact
 
-An elegant web application that delivers a daily technical fact about cognitive science, brain regions, and psychology. Each day of the year displays a unique, detailed fact with scientific citations.
+A web application that delivers a daily technical fact about cognitive science, brain regions, and psychology. Each day of the year displays a unique, detailed fact with scientific citations.
 
 ## Features
 
